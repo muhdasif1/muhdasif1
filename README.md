@@ -1,4 +1,3 @@
-<!--
 # Hi there! 👋 I'm Muhammad Asif
 **Agentic AI Developer | Cloud-Based AI Engineer**
 
@@ -8,4 +7,4 @@
 🛠 **Tech Stack:** FastAPI, SQLModel, PostgreSQL, MySQL, Prisma ORM, Knowledge Graphs, Kafka, Python, TypeScript, Next.js, TailwindCSS, Docker, Google Cloud  
 📚 **Currently Learning:** Agentic AI from Panaversity  
 🎓 Constantly learning and pushing the boundaries of AI engineering.
--->
+
