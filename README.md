@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 Hi, I’m **Muhammad Asif**, a passionate **Computer Science student** and future **AI Engineer**.  
-I am currently in my **6th semester of BSCS** at the **University of Peshawar** and actively building real-world AI systems.
+I am currently in my **7th semester of BSCS** at the **University of Peshawar** and actively building real-world AI systems.
 
 I am enrolled in advanced AI programs and focused on **Agentic AI**, **LLMs**, and **Python-based automation**.  
 I love creating intelligent systems that can **reason, automate tasks, and solve real problems**.
